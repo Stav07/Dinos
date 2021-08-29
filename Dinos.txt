@@ -1,0 +1,40 @@
+Tyrannosaurus
+Tyrant Lizard
+23
+14000
+Triceratops
+Three Horned Face
+10
+14000
+Velociraptor
+Swift Robber
+2
+250
+Brochiosaurus
+Arm Lizard
+50
+100000
+Stegosaurus
+Plated Lizard
+11
+6000
+Megalosaurus
+Big Lizard
+12
+2000
+Ultrasauros
+Ultra Lizard
+53
+100
+Archaeopteryx
+Ancient Wing
+1
+2
+Iguanodon
+Iguana Tooth
+18
+30
+Oviraptor
+Egg Robber
+3
+80
